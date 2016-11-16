@@ -1,0 +1,7 @@
+#Tue Nov 15 14:00:03 CET 2016
+base.0=C\:\\Users\\Kathi\\Documents\\Uni\\Semester3\\IP2\\TouchEvent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9d72c8c1ec7cdfe3178be90b83424a8760c5d82c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Kathi\\Documents\\Uni\\Semester3\\IP2\\TouchEvent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9a017425b9a83122e78b55eee6ae0898f7ba6154\\classes.dex
+base.1=C\:\\Users\\Kathi\\Documents\\Uni\\Semester3\\IP2\\TouchEvent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9a017425b9a83122e78b55eee6ae0898f7ba6154
+file.0=C\:\\Users\\Kathi\\Documents\\Uni\\Semester3\\IP2\\TouchEvent\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9d72c8c1ec7cdfe3178be90b83424a8760c5d82c\\classes.dex
